@@ -1,0 +1,3 @@
+Hello Github. My name is Patryk Siłkowski and I hold a Master's degree in Electrical Engineering specialized in Power Electronics. I have spent the last eight years working in embedded software engineering. I have had the opportunity to work on various projects, from developing smart home node devices and gateways. wearables - protective helmet and Vehicle Computing Platform for automotive industry. I'm known for my problem-solving skills and my ability to work collaboratively with cross-functional international teams. Outside of work, I like running, swimming, hiking, cycling and I am also interested in history, economy and electronics.
+
+I use this acc to share repos among my machines and future 3rd-party reviewers during my studies of Rust and Modern C++
